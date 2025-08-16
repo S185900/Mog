@@ -14,7 +14,7 @@
     <div class="app">
         <div class="header">
             <a class="header__link" href="{{ url('/products') }}">
-                <h1 class="header__heading">Mog-test</h1>
+                <h1 class="header__heading">Mog-testさらにテスト</h1>
             </a>
         </div>
         <div class="content">
