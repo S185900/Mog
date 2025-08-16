@@ -18,7 +18,6 @@ class ProductController extends Controller
     // $product = Product::where('season', 'summer')->get(); // 必要に応じたフィルタリング
     }
 
-    
 }
 
 

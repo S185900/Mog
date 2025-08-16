@@ -2,8 +2,8 @@
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
-    <meta name="smoothie shop 'mogitate'" content="width=device-width, initial-scale=1.0">
-    <title>mogitate</title>
+    <meta name="smoothie shop 'Mog-test'" content="width=device-width, initial-scale=1.0">
+    <title>Mog-test</title>
     <link rel="stylesheet" href="https://unpkg.com/ress/dist/ress.min.css" />
     <link rel="stylesheet" href="{{ asset('css/common.css')}}">
     <link href="https://fonts.cdnfonts.com/css/jsmath-cmti10" rel="stylesheet">
@@ -14,7 +14,7 @@
     <div class="app">
         <div class="header">
             <a class="header__link" href="{{ url('/products') }}">
-                <h1 class="header__heading">mogitate</h1>
+                <h1 class="header__heading">Mog-test</h1>
             </a>
         </div>
         <div class="content">
